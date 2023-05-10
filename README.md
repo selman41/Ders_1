@@ -1,1 +1,4 @@
-# Ders_1
+# Ders_1    
+
+
+dümenden c# yazılım dili öğrenme
